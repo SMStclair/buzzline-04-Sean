@@ -85,13 +85,13 @@ Use the commands below to activate .venv, and start the consumer.
 Windows:
 ```shell
 .venv\Scripts\activate
-py -m consumers.basic_json_consumer_case
+py -m consumers.project_consumer_Sean
 ```
 
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m consumers.basic_json_consumer_case
+python3 -m consumers.project_consumer_Sean
 ```
 
 ### Review the Application Code
